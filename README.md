@@ -10,10 +10,6 @@ A simple Django web application that allows users to check the current weather o
 - Responsive UI using HTML and CSS
 - Error handling for invalid city names
 
-## 📸 Demo
-
-![Screenshot](https://drive.google.com/file/d/1AlhZquGxMT1Yl2ZAUDOKAOCHV2r7y6tl/view?usp=sharing) 
-
 ## ⚙️ Technologies Used
 
 - Python 3
