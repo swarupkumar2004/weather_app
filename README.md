@@ -1,5 +1,4 @@
 # weather_app
-```markdown
 # 🌦️ Weather Forecast App
 
 A simple Django web application that allows users to check the current weather of any city using the OpenWeatherMap API.
@@ -13,7 +12,8 @@ A simple Django web application that allows users to check the current weather o
 
 ## 📸 Demo
 
-![Screenshot](screenshots/app-screenshot.png) <!-- Replace with your screenshot path -->
+![Screenshot](![Screenshot 2025-06-24 164330](https://github.com/user-attachments/assets/868af562-aead-4ac3-9960-bca46bf93dd2)
+) 
 
 ## ⚙️ Technologies Used
 
