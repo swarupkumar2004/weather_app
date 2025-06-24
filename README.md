@@ -1,1 +1,93 @@
 # weather_app
+```markdown
+# 🌦️ Weather Forecast App
+
+A simple Django web application that allows users to check the current weather of any city using the OpenWeatherMap API.
+
+## 🚀 Features
+
+- Search current weather by city name
+- Displays temperature, humidity, and weather conditions
+- Responsive UI using HTML and CSS
+- Error handling for invalid city names
+
+## 📸 Demo
+
+![Screenshot](screenshots/app-screenshot.png) <!-- Replace with your screenshot path -->
+
+## ⚙️ Technologies Used
+
+- Python 3
+- Django 5.2
+- HTML/CSS
+- OpenWeatherMap API
+
+## 📂 Project Structure
+
+```
+
+weather\_project/
+│
+├── weather/                  # Django app
+│   ├── templates/
+│   │   └── weather/
+│   │       └── weather.html  # HTML template
+│   ├── views.py              # Logic for fetching and displaying weather
+│   └── urls.py               # App routing
+│
+├── weather\_project/
+│   └── urls.py               # Project-level URL routing
+│
+├── manage.py
+├── requirements.txt
+└── README.md
+
+````
+
+## 🔑 Setup Instructions
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/weather-app.git
+   cd weather-app
+````
+
+2. Create and activate a virtual environment:
+
+   ```bash
+   python -m venv env
+   source env/bin/activate  # On Windows use: env\Scripts\activate
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Add your OpenWeatherMap API key in views.py:
+
+   ```python
+   api_key = 'your_api_key_here'
+   ```
+
+5. Run the development server:
+
+   ```bash
+   python manage.py runserver
+   ```
+
+6. Visit: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+
+## 📝 License
+
+This project is licensed under the MIT License.
+
+---
+
+Made with 💻 using Django by \[Your Name]
+
+```
+
+Let me know if you'd like me to customize it with your GitHub URL, name, or screenshot path.
+```
