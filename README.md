@@ -68,7 +68,7 @@ weather\_project/
 4. Add your OpenWeatherMap API key in views.py:
 
    ```python
-   api_key = 'your_api_key_here'
+   api_key = 'befe3d29f7fedcaec40025c653eeefa2'
    ```
 
 5. Run the development server:
@@ -76,18 +76,3 @@ weather\_project/
    ```bash
    python manage.py runserver
    ```
-
-6. Visit: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
----
-
-Made with 💻 using Django by \[Your Name]
-
-```
-
-Let me know if you'd like me to customize it with your GitHub URL, name, or screenshot path.
-```
