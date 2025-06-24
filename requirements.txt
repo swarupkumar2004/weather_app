@@ -1,0 +1,4 @@
+Django>=5.2
+requests>=2.31
+# If you used python-dotenv to manage API keys
+# python-dotenv>=1.0.0
