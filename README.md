@@ -12,8 +12,7 @@ A simple Django web application that allows users to check the current weather o
 
 ## 📸 Demo
 
-![Screenshot](![Screenshot 2025-06-24 164330](https://github.com/user-attachments/assets/868af562-aead-4ac3-9960-bca46bf93dd2)
-) 
+![Screenshot](https://drive.google.com/file/d/1AlhZquGxMT1Yl2ZAUDOKAOCHV2r7y6tl/view?usp=sharing) 
 
 ## ⚙️ Technologies Used
 
@@ -76,5 +75,3 @@ weather\_project/
    ```bash
    python manage.py runserver
    ```
-```
-
