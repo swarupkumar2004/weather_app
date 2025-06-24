@@ -76,3 +76,5 @@ weather\_project/
    ```bash
    python manage.py runserver
    ```
+```
+
